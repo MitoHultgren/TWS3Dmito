@@ -4,7 +4,7 @@
 
 Department of Ophthalmology and Stein Eye Institute, University of California, Los Angeles, CA 90095, USA; Department of Neurobiology, David Geffen School of Medicine at UCLA, University of California, Los Angeles, CA 90095, USA; Molecular Biology Institute, University of California, Los Angeles, CA 90095, USA; Brain Research Institute, University of California, Los Angeles, CA 90095, USA. Electronic address: dswilliams@ucla.edu.
 
-Mitochondrion. 2024 Apr 8:101882. [doi: 10.1016/j.mito.2024.101882](url)
+Mitochondrion. 2024 Apr 8:101882. doi: [10.1016/j.mito.2024.101882](url)
 
 Classifier 10_1 Segmentation Protocol
 Updated 4/09/24, NH
