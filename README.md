@@ -2,7 +2,7 @@
 # Machine learning-based 3D segmentation of mitochondria in polarized epithelial cells
 **Nan W Hultgren, Tianli Zhou, David S Williams**
 
-Department of Ophthalmology and Stein Eye Institute, University of California, Los Angeles, CA 90095, USA; Department of Neurobiology, David Geffen School of Medicine at UCLA, University of California, Los Angeles, CA 90095, USA; Molecular Biology Institute, University of California, Los Angeles, CA 90095, USA; Brain Research Institute, University of California, Los Angeles, CA 90095, USA. Electronic address: dswilliams@ucla.edu.
+Department of Ophthalmology and Stein Eye Institute, University of California, Los Angeles, CA 90095, USA; Department of Neurobiology, David Geffen School of Medicine at UCLA, University of California, Los Angeles, CA 90095, USA; Molecular Biology Institute, University of California, Los Angeles, CA 90095, USA; Brain Research Institute, University of California, Los Angeles, CA 90095, USA. Electronic address: dswilliams@ucla.edu; nanwu36@ucla.edu.
 
 Mitochondrion. 2024 Apr 8:101882. doi: [10.1016/j.mito.2024.101882](https://www.sciencedirect.com/science/article/pii/S1567724924000400?via%3Dihub)
 
